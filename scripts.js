@@ -29,11 +29,10 @@ let images = [
         alt: "A photo of a fantasy house",
         title: "Some fantasy house",
         descTitle: "The fantasy house",
-        desc: `Corsica (/ˈkɔːrsɪkə/; French: Corse [kɔʁs]; Corsica in Corsican and Italian, pronounced
-            [ˈkorsiɡa] and [ˈkɔrsika] respectively) is an island in the Mediterranean Sea and one of the
-            18 regions of France. It is located southeast of the French mainland and west of the Italian
-            Peninsula, with the nearest land mass being the Italian island of Sardinia to the immediate
-            south. A single chain of mountains makes up two-thirds of the island.`
+        desc: `Fantasy is a genre of speculative fiction set in a fictional universe, often 
+            inspired by real world myth and folklore. Its roots are in oral traditions, which 
+            then became fantasy literature and drama. From the twentieth century it has expanded 
+            further into various media, including film, television, graphic novels, and video games.`
     },
 
     {
@@ -42,11 +41,10 @@ let images = [
         alt: "A photo of some tasty noodles",
         title: "Wouldn't you taste those...?",
         descTitle: "Wouldn't you taste those...?",
-        desc: `Corsica (/ˈkɔːrsɪkə/; French: Corse [kɔʁs]; Corsica in Corsican and Italian, pronounced
-            [ˈkorsiɡa] and [ˈkɔrsika] respectively) is an island in the Mediterranean Sea and one of the
-            18 regions of France. It is located southeast of the French mainland and west of the Italian
-            Peninsula, with the nearest land mass being the Italian island of Sardinia to the immediate
-            south. A single chain of mountains makes up two-thirds of the island.`
+        desc: `Pastas are divided into two broad categories: dried (pasta secca) and fresh 
+            (pasta fresca). Most dried pasta is produced commercially via an extrusion process, 
+            although it can be produced at home. Fresh pasta is traditionally produced by hand, 
+            sometimes with the aid of simple machines.`
     },
 
     {
@@ -55,11 +53,11 @@ let images = [
         alt: "A photo of Norway",
         title: "The diamond of Scandinavia",
         descTitle: "The diamond of Scandinavia",
-        desc: `Corsica (/ˈkɔːrsɪkə/; French: Corse [kɔʁs]; Corsica in Corsican and Italian, pronounced
-            [ˈkorsiɡa] and [ˈkɔrsika] respectively) is an island in the Mediterranean Sea and one of the
-            18 regions of France. It is located southeast of the French mainland and west of the Italian
-            Peninsula, with the nearest land mass being the Italian island of Sardinia to the immediate
-            south. A single chain of mountains makes up two-thirds of the island.`
+        desc: `Norway has a total area of 385,207 square kilometres (148,729 sq mi) and 
+            a population of 5,312,300 (as of August 2018). The country shares a long 
+            eastern border with Sweden (1,619 km or 1,006 mi long). Norway is bordered by 
+            Finland and Russia to the north-east, and the Skagerrak strait to the south, 
+            with Denmark on the other side`
     },
 
     {        
