@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to left, #bbb, #eee 40%, #eee 60%, #bbb);
+}
+
+.main-container {
+    width: 1000px;
+    height: 500px;
+
+    margin: 150px auto;
+}
